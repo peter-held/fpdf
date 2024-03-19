@@ -11,7 +11,7 @@ package gofpdi
 import (
 	"io"
 
-	realgofpdi "github.com/phpdave11/gofpdi"
+	realgofpdi "github.com/peter-held/gofpdi"
 )
 
 // gofpdiPdf is a partial interface that only implements the functions we need
